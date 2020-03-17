@@ -9,7 +9,7 @@ body {
 /*----------------page-wrapper----------------*/
 
 .page-wrapper {
-    height: 100vh;
+    height: 100%;
 
     .theme {
         width: 40px;
@@ -222,5 +222,6 @@ body {
             border-top-right-radius: $border-radius;
             border-bottom-right-radius: $border-radius;
         }
-    }
+    }  
 }
+
